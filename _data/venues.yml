@@ -1,9 +1,80 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Appl Sci":
+  color: "#00838f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CCDC":
+  color: "#6a1b9a"
 
-"Vision":
-  color: "#009f36"
+"CCC":
+  color: "#6a1b9a"
+
+"Commun Eng":
+  url: https://www.nature.com/commseng/
+  color: "#0b7285"
+
+"ECCE":
+  url: https://www.ieee-ecce.org/
+  color: "#1565c0"
+
+"Energies":
+  url: https://www.mdpi.com/journal/energies
+  color: "#2e7d32"
+
+"Elsevier":
+  url: https://www.elsevier.com/
+  color: "#f36f21"
+
+"Handbook":
+  color: "#455a64"
+
+"IC2ECS":
+  color: "#6a1b9a"
+
+"ICPES":
+  color: "#6a1b9a"
+
+"ICWPT":
+  color: "#6a1b9a"
+
+"IECON":
+  url: https://iecon.org/
+  color: "#1565c0"
+
+"JESTIE":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9325354
+  color: "#1565c0"
+
+"MPCE":
+  url: https://mpce.info/
+  color: "#00838f"
+
+"MSSP":
+  url: https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing
+  color: "#d84315"
+
+"NCA":
+  url: https://link.springer.com/journal/521
+  color: "#2e7d32"
+
+"ND":
+  url: https://link.springer.com/journal/11071
+  color: "#2e7d32"
+
+"OJIES":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782709
+  color: "#1565c0"
+
+"OJPEL":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782699
+  color: "#1565c0"
+
+"TPEL":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63
+  color: "#1565c0"
+
+"TTE":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687316
+  color: "#1565c0"
+
+"TVT":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25
+  color: "#1565c0"
