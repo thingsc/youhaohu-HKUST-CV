@@ -6,8 +6,8 @@ subtitle: Ph.D. student in Power Electronics at HKUST(GZ)
 
 profile:
   align: right
-  image:
-  image_circular: false # crops the image to make it circular
+  image: profile.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>HKUST(GZ)</p>
     <p>1st Duxue Road, Nansha District</p>
