@@ -16,7 +16,7 @@ cv:
     countryCode: CN
 
   sections:
-    Education:
+    Education & Experience:
       - institution: The Hong Kong University of Science and Technology (Guangzhou)
         location: Guangzhou, China
         area: Power Electronics
@@ -27,6 +27,25 @@ cv:
         courses: ""
         highlights:
           - "Supervisors: Dr. Wei Han and Prof. C. C. Chan."
+
+
+      - institution: The Hong Kong University of Science and Technology (Guangzhou)
+        location: Guangzhou, China
+        area: Power Electronics
+        studyType: Research Assistant
+        start_date: 2021-01
+        end_date: 2022-09
+        score: ""
+        courses: ""
+
+      - institution: Hefei University of Technology
+        location: Hefei, China
+        area: Department Administrative Support
+        studyType: Research Assistant
+        start_date: 2021-01
+        end_date: 2022-09
+        score: ""
+        courses: ""
 
       - institution: Hefei University of Technology
         location: Hefei, China
@@ -48,46 +67,46 @@ cv:
         courses: ""
         highlights: []
 
-    Experience:
-      - company: Wireless-Powered Full-Azimuth Podded Thruster
-        position: New Propulsion System for Unmanned Vessels
-        location: Guangzhou, China
-        start_date: ""
-        end_date: ""
-        summary: Developed a wireless-powered propulsion prototype for unmanned vessels, targeting sealing reliability and reduced maintenance compared with conventional podded propulsion solutions.
-        highlights:
-          - Modeled and designed wireless power transfer system parameters.
-          - Developed control and integration for a high-frequency wireless power converter.
-          - Implemented motor drive control, including field-oriented control and real-time control.
-          - Contributed sealed mechanical structure design, 3D modeling, prototype integration, debugging, and validation.
-          - Built a system including a 1200 W / 100 V GaN motor driver, a 5 kW integrated WPT inverter, 5-10 cm transfer distance, and 92% peak efficiency.
+    # Experience:
+    #   - company: Wireless-Powered Full-Azimuth Podded Thruster
+    #     position: New Propulsion System for Unmanned Vessels
+    #     location: Guangzhou, China
+    #     start_date: ""
+    #     end_date: ""
+    #     summary: Developed a wireless-powered propulsion prototype for unmanned vessels, targeting sealing reliability and reduced maintenance compared with conventional podded propulsion solutions.
+    #     highlights:
+    #       - Modeled and designed wireless power transfer system parameters.
+    #       - Developed control and integration for a high-frequency wireless power converter.
+    #       - Implemented motor drive control, including field-oriented control and real-time control.
+    #       - Contributed sealed mechanical structure design, 3D modeling, prototype integration, debugging, and validation.
+    #       - Built a system including a 1200 W / 100 V GaN motor driver, a 5 kW integrated WPT inverter, 5-10 cm transfer distance, and 92% peak efficiency.
 
-      - company: Active-Rectifier Wireless Motor System
-        position: Research Highlight
-        location: Guangzhou, China
-        start_date: ""
-        end_date: ""
-        summary: Developed system-level analysis and dual-side phase shift control for active-rectifier wireless motor systems.
-        highlights:
-          - "Related selected paper: An Active-Rectifier Wireless Motor System with Dual-Side Phase Shift Control."
+    #   - company: Active-Rectifier Wireless Motor System
+    #     position: Research Highlight
+    #     location: Guangzhou, China
+    #     start_date: ""
+    #     end_date: ""
+    #     summary: Developed system-level analysis and dual-side phase shift control for active-rectifier wireless motor systems.
+    #     highlights:
+    #       - "Related selected paper: An Active-Rectifier Wireless Motor System with Dual-Side Phase Shift Control."
 
-      - company: Fixed-Time Voltage Regulation for Wireless Power Transfer
-        position: Research Highlight
-        location: Guangzhou, China
-        start_date: ""
-        end_date: ""
-        summary: Combined neural-network-assisted control with adaptive practical fixed-time voltage regulation for wireless power transfer systems.
-        highlights:
-          - "Related selected paper: ELM-Based Adaptive Practical Fixed-Time Voltage Regulation in Wireless Power Transfer System."
+    #   - company: Fixed-Time Voltage Regulation for Wireless Power Transfer
+    #     position: Research Highlight
+    #     location: Guangzhou, China
+    #     start_date: ""
+    #     end_date: ""
+    #     summary: Combined neural-network-assisted control with adaptive practical fixed-time voltage regulation for wireless power transfer systems.
+    #     highlights:
+    #       - "Related selected paper: ELM-Based Adaptive Practical Fixed-Time Voltage Regulation in Wireless Power Transfer System."
 
-      - company: Electronic Throttle Control
-        position: Research Highlight
-        location: Hefei, China
-        start_date: ""
-        end_date: ""
-        summary: Developed adaptive finite-time and fixed-time sliding mode control algorithms for electronic throttle control systems.
-        highlights:
-          - Addressed nonlinear dynamics, robustness, convergence speed, and learning-assisted compensation.
+    #   - company: Electronic Throttle Control
+    #     position: Research Highlight
+    #     location: Hefei, China
+    #     start_date: ""
+    #     end_date: ""
+    #     summary: Developed adaptive finite-time and fixed-time sliding mode control algorithms for electronic throttle control systems.
+    #     highlights:
+    #       - Addressed nonlinear dynamics, robustness, convergence speed, and learning-assisted compensation.
 
     Awards:
       - title: Gold Medal in International Exhibition of Inventions of Geneva
