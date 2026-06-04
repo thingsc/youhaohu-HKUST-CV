@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://thingsc.github.io/sitemap.xml
+Sitemap: https://thingsc.github.io/youhaohu-HKUST-CV/sitemap.xml
