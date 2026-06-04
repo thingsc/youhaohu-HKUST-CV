@@ -12,6 +12,7 @@ profile:
     <p>HKUST(GZ)</p>
     <p>1st Duxue Road, Nansha District</p>
     <p>Guangzhou, Guangdong, CN 511400</p>
+    <p>DOB: 16 August 1994</p>
     <p><a href="mailto:yhu543@connect.hkust-gz.edu.cn">yhu543@connect.hkust-gz.edu.cn</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,10 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Power Electronics at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Dr. Wei Han and Prof. C. C. Chan. My research focuses on power electronics systems, wireless power transfer, motor drive systems, and advanced control for dynamic energy conversion applications.
+I am a Ph.D. student in Power Electronics at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Dr. [Wei Han](https://weihan.people.ust.hk/?page_id=38) and Prof. [C. C. Chan](https://web.engg.hku.hk/home/people/ccchan/ccchan.htm). My research focuses on power electronics systems, wireless power transfer, motor drive systems, and advanced control for dynamic energy conversion applications.
 
 My current work combines modeling, converter control, embedded implementation, and experimental validation. Recent topics include active-rectifier wireless motor systems, fixed-time voltage regulation for wireless power transfer, sliding mode control, and wireless-powered full-azimuth podded propulsion for unmanned vessels.
 
 I received my M.S. in Control Engineering from Hefei University of Technology and my B.S. in Automation from Shandong University of Technology. I work with Matlab, Python, C, Windows-based development environments, embedded systems, and neural-network-assisted control methods.
-
-**Personal information.** Date of birth: 16 August 1994. Address: 1st Duxue Road, Nansha District, Guangzhou, Guangdong, China, 511400.
