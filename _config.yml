@@ -3,20 +3,19 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Youhao
+middle_name:
+last_name: Hu
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  For academic collaboration and research enquiries, please contact me by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Youhao Hu is a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou), working on power electronics, wireless power transfer, motor drive systems, and advanced control.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Youhao Hu, HKUST Guangzhou, power electronics, wireless power transfer, motor drive, sliding mode control, embedded systems # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ⚡ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://thingsc.github.io # the base hostname & protocol for your site
 baseurl: /youhaohu-HKUST-CV # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -87,7 +86,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions
@@ -122,8 +121,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Youhao Hu # blog_name will be displayed in your blog page
+blog_description: research notes and updates
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -186,15 +185,15 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
     output: true
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

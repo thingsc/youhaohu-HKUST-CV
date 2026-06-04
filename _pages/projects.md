@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Engineering projects and research highlights from Youhao Hu's work in power electronics, wireless power transfer, motor drive systems, and control.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: ["Engineering Projects", "Research Highlights"]
 horizontal: false
 ---
 
