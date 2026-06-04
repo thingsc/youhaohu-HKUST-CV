@@ -1,0 +1,133 @@
+cv:
+  name: Youhao Hu
+  email: yhu543@connect.hkust-gz.edu.cn
+  location: Guangzhou, Guangdong, China
+
+  sections:
+    Personal Information:
+      - label: Date of Birth
+        details: 16 August 1994
+      - label: Address
+        details: 1st Duxue Road, Nansha District, Guangzhou, Guangdong, China, 511400
+
+    Education:
+      - institution: The Hong Kong University of Science and Technology (Guangzhou)
+        location: Guangzhou, China
+        degree: Ph.D.
+        area: Power Electronics
+        start_date: 2022-09
+        end_date: present
+        highlights:
+          - "Supervisors: Dr. Wei Han and Prof. C. C. Chan."
+
+      - institution: Hefei University of Technology
+        location: Hefei, China
+        degree: M.S.
+        area: Control Engineering
+        start_date: 2017-09
+        end_date: 2020-06
+
+      - institution: Shandong University of Technology
+        location: Zibo, China
+        degree: B.S.
+        area: Automation
+        start_date: 2013-09
+        end_date: 2017-06
+
+    Research and Engineering Experience:
+      - company: Wireless-Powered Full-Azimuth Podded Thruster
+        position: New Propulsion System for Unmanned Vessels
+        location: Guangzhou, China
+        highlights:
+          - Developed a wireless-powered propulsion prototype for unmanned vessels, targeting sealing reliability and reduced maintenance compared with conventional podded propulsion solutions.
+          - Modeled and designed wireless power transfer system parameters.
+          - Developed control and integration for a high-frequency wireless power converter.
+          - Implemented motor drive control, including field-oriented control and real-time control.
+          - Contributed sealed mechanical structure design, 3D modeling, prototype integration, debugging, and validation.
+          - Built a system including a 1200 W / 100 V GaN motor driver, a 5 kW integrated WPT inverter, 5-10 cm transfer distance, and 92% peak efficiency.
+
+      - company: Active-Rectifier Wireless Motor System
+        position: Research Highlight
+        highlights:
+          - Developed system-level analysis and dual-side phase shift control for active-rectifier wireless motor systems.
+          - "Related selected paper: An Active-Rectifier Wireless Motor System with Dual-Side Phase Shift Control."
+
+      - company: Fixed-Time Voltage Regulation for Wireless Power Transfer
+        position: Research Highlight
+        highlights:
+          - Combined neural-network-assisted control with adaptive practical fixed-time voltage regulation for wireless power transfer systems.
+          - "Related selected paper: ELM-Based Adaptive Practical Fixed-Time Voltage Regulation for Wireless Power Transfer System."
+
+      - company: Electronic Throttle Control
+        position: Research Highlight
+        highlights:
+          - Developed adaptive finite-time and fixed-time sliding mode control algorithms for electronic throttle control systems.
+          - Addressed nonlinear dynamics, robustness, convergence speed, and learning-assisted compensation.
+
+    Skills:
+      - name: Power Electronics System Design
+        level: Master
+        keywords: Power electronics modeling, wireless power transfer, wireless motor systems, bidirectional energy conversion
+
+      - name: Complex Dynamics Modeling
+        level: Master
+        keywords: System modeling, nonlinear dynamics, dynamic wireless power transfer
+
+      - name: Sliding Mode Control Theory
+        level: Master
+        keywords: Adaptive control, barrier-function control, finite-time control, fixed-time control
+
+      - name: Embedded Systems Programming
+        level: Master
+        keywords: Matlab, Python, C, embedded systems
+
+      - name: Neural Network Methods
+        level: Master
+        keywords: Extreme learning machine, neural-network-assisted control, adaptive approximation
+
+    Honors and Awards:
+      - title: Gold Medal in International Exhibition of Inventions of Geneva
+        authors: Weihan, Yilin Zhang, Youhao Hu, and Junyu Fan
+        date: 2026
+        awarder: Palexpo SA, Switzerland
+        summary: Gold medal for the invention of a wireless-powered full-azimuth podded propulsion system for unmanned vessels, which features a high-efficiency GaN-based wireless power transfer system and a sealed mechanical structure for enhanced reliability and reduced maintenance.
+
+      - title: Fully Funded PhD Scholarship
+        date: 2022
+        awarder: The Hong Kong University of Science and Technology (Guangzhou), China
+
+      - title: Outstanding Graduate Award
+        date: 2020
+        awarder: Anhui Province, China
+
+      - title: Outstanding Graduate Award
+        date: 2020
+        awarder: Hefei University of Technology, China
+
+      - title: National Scholarship for Graduate Students
+        date: 2019
+        awarder: Ministry of Education, China
+
+      - title: Academic First Grade Scholarship for Graduate Students
+        date: 2019
+        awarder: Hefei University of Technology, China
+
+      - title: Academic Second Grade Scholarship for Graduate Students
+        date: 2018
+        awarder: Hefei University of Technology, China
+
+      - title: Academic First Grade Scholarship for Graduate Students
+        date: 2017
+        awarder: Hefei University of Technology, China
+
+      - title: Academic First Grade Scholarship for Graduate Students
+        date: 2017
+        awarder: Shandong University of Technology, China
+
+      - title: Meritorious Winner in Mathematical Contest in Modeling (MCM)
+        date: 2016
+        awarder: COMAP, United States
+
+      - title: Qingdao "DORIGHT" Scholarship
+        date: 2016
+        awarder: Shandong University of Technology, China
