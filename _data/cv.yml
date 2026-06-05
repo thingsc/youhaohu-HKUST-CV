@@ -22,8 +22,30 @@ cv:
         location: Guangzhou, China
         area: Power Electronics
         studyType: Ph.D.
-        start_date: 2022-09
+        start_date: 2025-08
         end_date: present
+        score: ""
+        courses: ""
+        highlights:
+          - "Supervisors: Dr. [Wei Han](https://weihan.people.ust.hk/?page_id=38) and Prof. [C. C. Chan](https://web.engg.hku.hk/home/people/ccchan/ccchan.htm)."
+
+      - institution: The Hong Kong University of Science and Technology
+        location: SAR, Hong Kong
+        area: Power Electronics
+        studyType: Cross-Campus-Studey Ph.D. Exchange Program
+        start_date: 2025-02
+        end_date: 2025-08
+        score: ""
+        courses: ""
+        highlights:
+          - "Host Supervisors: Prof. [Zhengbao Yang](https://yanglab.hkust.edu.hk/People.html)"
+
+      - institution: The Hong Kong University of Science and Technology (Guangzhou)
+        location: Guangzhou, China
+        area: Power Electronics
+        studyType: Ph.D.
+        start_date: 2022-09
+        end_date: 2025-02
         score: ""
         courses: ""
         highlights:
