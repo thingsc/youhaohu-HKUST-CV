@@ -1,9 +1,10 @@
 cv:
   name: Youhao Hu
-  label: Ph.D. Student in Power Electronics
+  # label: "Ph.D. Student in Power Electronics"
+  phone: +86 18255189791
   email: yhu543@connect.hkust-gz.edu.cn
   location: Guangzhou, Guangdong, China
-  image: ""
+  # image: ""
   summary: Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou), working on power electronics, wireless power transfer, motor drive systems, and advanced control.
 
   social_networks: []
@@ -16,36 +17,17 @@ cv:
     countryCode: CN
 
   sections:
-    Education & Experience:
+    Education:
       - institution: The Hong Kong University of Science and Technology (Guangzhou)
         location: Guangzhou, China
         area: Power Electronics
         studyType: Ph.D.
         start_date: 2022-09
-        end_date: now
+        end_date: present
         score: ""
         courses: ""
         highlights:
-          - "Supervisors: Dr. Wei Han and Prof. C. C. Chan."
-
-
-      - institution: The Hong Kong University of Science and Technology (Guangzhou)
-        location: Guangzhou, China
-        area: Power Electronics
-        studyType: Research Assistant
-        start_date: 2021-01
-        end_date: 2022-09
-        score: ""
-        courses: ""
-
-      - institution: Hefei University of Technology
-        location: Hefei, China
-        area: Department Administrative Support
-        studyType: Research Assistant
-        start_date: 2021-01
-        end_date: 2022-09
-        score: ""
-        courses: ""
+          - "Supervisors: Dr. [Wei Han](https://weihan.people.ust.hk/?page_id=38) and Prof. [C. C. Chan](https://web.engg.hku.hk/home/people/ccchan/ccchan.htm)."
 
       - institution: Hefei University of Technology
         location: Hefei, China
@@ -67,46 +49,22 @@ cv:
         courses: ""
         highlights: []
 
-    # Experience:
-    #   - company: Wireless-Powered Full-Azimuth Podded Thruster
-    #     position: New Propulsion System for Unmanned Vessels
-    #     location: Guangzhou, China
-    #     start_date: ""
-    #     end_date: ""
-    #     summary: Developed a wireless-powered propulsion prototype for unmanned vessels, targeting sealing reliability and reduced maintenance compared with conventional podded propulsion solutions.
-    #     highlights:
-    #       - Modeled and designed wireless power transfer system parameters.
-    #       - Developed control and integration for a high-frequency wireless power converter.
-    #       - Implemented motor drive control, including field-oriented control and real-time control.
-    #       - Contributed sealed mechanical structure design, 3D modeling, prototype integration, debugging, and validation.
-    #       - Built a system including a 1200 W / 100 V GaN motor driver, a 5 kW integrated WPT inverter, 5-10 cm transfer distance, and 92% peak efficiency.
+    Experience:
+      - company: The Hong Kong University of Science and Technology (Guangzhou)
+        position: Research Assistant
+        location: Guangzhou, China
+        start_date: 2021-01
+        end_date: 2022-09
+        summary: Power Electronics
+        highlights: []
 
-    #   - company: Active-Rectifier Wireless Motor System
-    #     position: Research Highlight
-    #     location: Guangzhou, China
-    #     start_date: ""
-    #     end_date: ""
-    #     summary: Developed system-level analysis and dual-side phase shift control for active-rectifier wireless motor systems.
-    #     highlights:
-    #       - "Related selected paper: An Active-Rectifier Wireless Motor System with Dual-Side Phase Shift Control."
-
-    #   - company: Fixed-Time Voltage Regulation for Wireless Power Transfer
-    #     position: Research Highlight
-    #     location: Guangzhou, China
-    #     start_date: ""
-    #     end_date: ""
-    #     summary: Combined neural-network-assisted control with adaptive practical fixed-time voltage regulation for wireless power transfer systems.
-    #     highlights:
-    #       - "Related selected paper: ELM-Based Adaptive Practical Fixed-Time Voltage Regulation in Wireless Power Transfer System."
-
-    #   - company: Electronic Throttle Control
-    #     position: Research Highlight
-    #     location: Hefei, China
-    #     start_date: ""
-    #     end_date: ""
-    #     summary: Developed adaptive finite-time and fixed-time sliding mode control algorithms for electronic throttle control systems.
-    #     highlights:
-    #       - Addressed nonlinear dynamics, robustness, convergence speed, and learning-assisted compensation.
+      - company: Hefei University of Technology
+        position: Research Assistant
+        location: Hefei, China
+        start_date: 2020-09
+        end_date: 2021-01
+        summary: Department Administrative Support
+        highlights: []
 
     Awards:
       - title: Gold Medal in International Exhibition of Inventions of Geneva
@@ -117,15 +75,16 @@ cv:
           - Junyu Fan
         date: 2026
         awarder: Palexpo SA, Switzerland
-        url: ""
-        summary: Gold medal for the invention of a wireless-powered full-azimuth podded propulsion system for unmanned vessels, which features a high-efficiency GaN-based wireless power transfer system and a sealed mechanical structure for enhanced reliability and reduced maintenance.
+        # url: "/youhaohu-HKUST-CV/projects/wireless-podded-thruster/"
+        # Left empty to access this page itself
+        summary: "[Project Details](/youhaohu-HKUST-CV/projects/wireless-podded-thruster/)"
 
       - title: Fully Funded PhD Scholarship
         authors:
           - The Hong Kong University of Science and Technology (Guangzhou), China
         date: 2022
         awarder: The Hong Kong University of Science and Technology (Guangzhou), China
-        url: ""
+        # url: ""
         summary: ""
 
       - title: Outstanding Graduate Award
@@ -133,7 +92,7 @@ cv:
           - Anhui Province, China
         date: 2020
         awarder: Anhui Province, China
-        url: ""
+        # url: ""
         summary: ""
 
       - title: Outstanding Graduate Award
@@ -141,7 +100,7 @@ cv:
           - Hefei University of Technology, China
         date: 2020
         awarder: Hefei University of Technology, China
-        url: ""
+        # url: ""
         summary: ""
 
       - title: National Scholarship for Graduate Students
@@ -149,7 +108,7 @@ cv:
           - Ministry of Education, China
         date: 2019
         awarder: Ministry of Education, China
-        url: ""
+        # url: ""
         summary: ""
 
       - title: Academic First Grade Scholarship for Graduate Students
@@ -157,7 +116,7 @@ cv:
           - Hefei University of Technology, China
         date: 2019
         awarder: Hefei University of Technology, China
-        url: ""
+        # url: ""
         summary: ""
 
       - title: Academic Second Grade Scholarship for Graduate Students
@@ -165,7 +124,7 @@ cv:
           - Hefei University of Technology, China
         date: 2018
         awarder: Hefei University of Technology, China
-        url: ""
+        # url: ""
         summary: ""
 
       - title: Academic First Grade Scholarship for Graduate Students
@@ -173,7 +132,7 @@ cv:
           - Hefei University of Technology, China
         date: 2017
         awarder: Hefei University of Technology, China
-        url: ""
+        # url: ""
         summary: ""
 
       - title: Academic First Grade Scholarship for Graduate Students
@@ -181,7 +140,7 @@ cv:
           - Shandong University of Technology, China
         date: 2017
         awarder: Shandong University of Technology, China
-        url: ""
+        # url: ""
         summary: ""
 
       - title: Meritorious Winner in Mathematical Contest in Modeling (MCM)
@@ -189,7 +148,7 @@ cv:
           - COMAP, United States
         date: 2016
         awarder: COMAP, United States
-        url: ""
+        # url: ""
         summary: ""
 
       - title: Qingdao "DORIGHT" Scholarship
@@ -197,7 +156,7 @@ cv:
           - Shandong University of Technology, China
         date: 2016
         awarder: Shandong University of Technology, China
-        url: ""
+        # url: ""
         summary: ""
 
     Publications:
@@ -209,8 +168,8 @@ cv:
           - Weikang Hu
         publisher: IEEE Trans. Power Electron.
         releaseDate: 2025
-        url: https://doi.org/10.1109/TPEL.2024.3493093
-        summary: Selected paper.
+        # url: https://doi.org/10.1109/TPEL.2024.3493093
+        summary: "[Poster](/youhaohu-HKUST-CV/projects/active-rectifier-wireless-motor/) &#124; [Paper](https://doi.org/10.1109/TPEL.2024.3493093)"
 
       - title: A Closed-Loop-Controlled Wireless Motor System with Maximum Efficiency Point Tracking
         authors:
@@ -220,8 +179,8 @@ cv:
           - Weikang Hu
         publisher: Proceedings of IEEE Energy Conversion Congress & Expo
         releaseDate: 2024
-        url: ""
-        summary: Selected paper.
+        # url: "https://ieeexplore.ieee.org/document/10861822"
+        summary: "[Paper](https://ieeexplore.ieee.org/document/10861822)"
 
       - title: Fixed-time Adaptive Sliding Mode Control for Vehicular Electronic Throttle with Actuator Saturation Using Extreme Learning Machine
         authors:
@@ -234,8 +193,8 @@ cv:
           - Zhihong Man
         publisher: IEEE Trans. Veh. Technol.
         releaseDate: 2024
-        url: https://ieeexplore.ieee.org/document/10623888/
-        summary: Selected paper.
+        # url: https://ieeexplore.ieee.org/document/10623888/
+        summary: "[Poster](/youhaohu-HKUST-CV/projects/electronic-throttle-control/) &#124; [Paper](https://ieeexplore.ieee.org/document/10623888/)"
 
       - title: ELM-Based Adaptive Practical Fixed-Time Voltage Regulation in Wireless Power Transfer System
         authors:
@@ -245,19 +204,24 @@ cv:
           - Wei Han
         publisher: Energies
         releaseDate: 2023
-        url: https://www.mdpi.com/1996-1073/16/3/1016
-        summary: Selected paper.
+        # url: https://www.mdpi.com/1996-1073/16/3/1016
+        summary: "[Poster](/youhaohu-HKUST-CV/projects/elm-wpt-voltage-regulation/) &#124; [Paper](https://www.mdpi.com/1996-1073/16/3/1016)"
 
-      - title: Robust Speed Control for Wireless Motor Systems with Maximum Efficiency Point Tracking
+      - title: Adaptive Tracking Control of an Electronic Throttle Valve Based on Recursive Terminal Sliding Mode
         authors:
           - Youhao Hu
-          - Bowang Zhang
-          - Weikang Hu
-          - Wei Han
-        publisher: IECON 2023 - 49th Annual Conference of the IEEE Industrial Electronics Society
-        releaseDate: 2023
-        url: https://ieeexplore.ieee.org/document/10312152/
-        summary: Selected paper.
+          - Hai Wang
+          - Shuping He
+          - Jinchuan Zheng
+          - Zhaowu Ping
+          - Ke Shao
+          - Zhenwei Cao
+          - Zhihong Man
+        publisher: IEEE Trans. Veh. Technol.
+        releaseDate: 2021
+        # url: https://doi.org/10.1109/TVT.2020.3045778
+        summary: "[Poster](/youhaohu-HKUST-CV/projects/electronic-throttle-control/) &#124; [Paper](https://doi.org/10.1109/TVT.2020.3045778)<br>**⭐️ Highly cited paper in 2021.**"
+
 
     Skills:
       - name: Power Electronics System Design

@@ -1,19 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. student in Power Electronics at HKUST(GZ)
 
 profile:
   align: right
   image: profile.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>HKUST(GZ)</p>
-    <p>1st Duxue Road, Nansha District</p>
-    <p>Guangzhou, Guangdong, CN 511400</p>
     <p>DOB: 16 August 1994</p>
-    <p><a href="mailto:yhu543@connect.hkust-gz.edu.cn">yhu543@connect.hkust-gz.edu.cn</a></p>
+    <p>TEL: +86 18255189791</p>
+    <p>EMAIL: <a href="mailto:yhu543@connect.hkust-gz.edu.cn">yhu543@connect.hkust-gz.edu.cn</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

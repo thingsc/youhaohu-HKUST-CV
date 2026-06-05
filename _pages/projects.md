@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Engineering projects and research highlights from Youhao Hu's work in power electronics, wireless power transfer, motor drive systems, and control.
 nav: true
