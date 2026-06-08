@@ -23,7 +23,7 @@ cv:
         start_date: 2025-02
         end_date: 2025-08
         highlights:
-          - "交流导师：[杨征宝教授](https://yanglab.hkust.edu.hk/People.html)。"
+          - "交流导师：[杨征保教授](https://yanglab.hkust.edu.hk/People.html)。"
 
       - institution: 香港科技大学（广州）
         location: 中国广州
@@ -197,22 +197,22 @@ cv:
         summary: "[海报](/youhaohu-HKUST-CV/zh/projects/electronic-throttle-control/) &#124; [论文](https://doi.org/10.1109/TVT.2020.3045778)<br>**⭐️ 2021年高被引论文.**"
 
     技能:
-      - name: 电力电子系统设计
+      - name: 电力电子与无线能量传输系统设计
         level:
-        keywords: "电力电子建模、无线电能传输、无线电机系统、双向能量变换"
+        keywords: "具备电力电子系统、无线电能传输（WPT）系统及双向能量流无线电机系统的建模、分析与控制设计经验，熟悉系统级设计、参数优化及实验验证流程。"
 
-      - name: 复杂动力学建模
+      - name: 复杂动力学系统建模与分析
         level:
-        keywords: "系统建模、非线性动力学、不确定性建模、数据驱动建模"
+        keywords: "具备复杂动力学系统建模经验，研究对象涵盖电力电子系统、无线电能传输系统、电机驱动系统及多物理场耦合系统，能够开展系统建模、稳定性分析与控制器设计。"
 
-      - name: 滑模控制理论
+      - name: 先进控制理论与控制器设计
         level:
-        keywords: "自适应控制、有限时间控制、固定时间控制"
+        keywords: "熟悉滑模控制、自适应控制、扰动观测器（ESO）等先进控制方法，具备非线性系统控制器设计、信号处理及实时控制实现经验。嵌入式控制系统开发"
 
-      - name: 嵌入式系统编程
+      - name: 嵌入式控制系统开发
         level:
-        keywords: "MATLAB/SIMULINK 代码生成、Python、C、嵌入式系统"
+        keywords: "具备从控制算法开发到嵌入式平台部署的完整研发经验，熟练使用 MATLAB/Simulink、Python 及 C 语言开展建模仿真、自动代码生成、实时控制系统开发与 MCU 平台实现。"
 
-      - name: 神经网络方法
+      - name: 智能控制与机器学习
         level:
-        keywords: "极限学习机、神经网络辅助控制、自适应权重"
+        keywords: "了解机器学习与神经网络相关算法，具备神经网络辅助控制及智能控制策略开发经验，能够将数据驱动方法与传统控制理论相结合应用于复杂控制系统。"

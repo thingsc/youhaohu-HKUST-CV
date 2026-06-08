@@ -253,27 +253,38 @@ cv:
         summary: "[Poster](/youhaohu-HKUST-CV/projects/electronic-throttle-control/) &#124; [Paper](https://doi.org/10.1016/j.ymssp.2019.106375)"
 
     Skills:
-      - name: Power Electronics System Design
-        level: Master
+      - name: Power Electronics and Wireless Power Transfer Systems
+        level: 
         icon: fa-solid fa-hashtag
-        keywords: "Power electronics modeling, wireless power transfer, wireless motor systems, bidirectional energy conversion"
+        keywords: "Experienced in the modeling, analysis, and control-oriented design of power electronic systems, wireless power transfer (WPT) systems, and bidirectional wireless motor systems. Familiar with system-level design, parameter optimization, and experimental validation."
 
-      - name: Complex Dynamics Modeling
-        level: Master
+      - name: Complex Dynamical System Modeling
+        level: 
         icon: fa-solid fa-hashtag
-        keywords: "System modeling, nonlinear dynamics, uncertainty modeling, data-driven modeling"
+        keywords: "Experienced in modeling and analyzing complex dynamical systems, including power electronic converters, wireless power transfer systems, motor drive systems, and multi-physics coupled systems. Capable of conducting system-level modeling, stability analysis, and controller design."
 
-      - name: Sliding Mode Control Theory
-        level: Master
+      - name: Advanced Control Theory and Controller Design
+        level: 
         icon: fa-solid fa-hashtag
-        keywords: "Adaptive control, finite-time control, fixed-time control"
+        keywords: "Proficient in advanced control methodologies including Sliding Mode Control (SMC), Adaptive Control, and Extended State Observer (ESO)-based control. Experienced in nonlinear controller design, signal processing, and real-time control implementation."
 
-      - name: Embedded Systems Programming
-        level: Master
+      - name: Embedded Control System Development
+        level: 
         icon: fa-solid fa-hashtag
-        keywords: "MATLAB/SIMULINK code generation, Python, C, embedded systems"
+        keywords: "Experienced in the complete development cycle of embedded control systems, from control algorithm design and simulation to real-time deployment on embedded platforms. Proficient in MATLAB/Simulink, Python, and C programming."
 
-      - name: Neural Network Methods
-        level: Master
+      - name: Intelligent Control and Machine Learning
+        level: 
         icon: fa-solid fa-hashtag
-        keywords: "Extreme learning machine, neural-network-assisted control, adaptive weights"
+        keywords: "Familiar with machine learning algorithms and neural network techniques, with experience in NN-assisted control and hybrid intelligent control strategies that integrate data-driven methods with conventional control approaches."
+
+
+
+
+
+
+
+
+
+
+
