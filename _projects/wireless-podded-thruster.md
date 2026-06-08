@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Wireless-Powered Full-Azimuth Podded Thruster
+lang: en
+alternate_url: /zh/projects/wireless-podded-thruster/
 description: New propulsion system for unmanned vessels.
 img: assets/img/projects/wireless-podded-thruster.png
 importance: 1

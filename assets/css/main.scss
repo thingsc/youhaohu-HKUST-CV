@@ -33,3 +33,30 @@
   padding-bottom: 0.35rem;
   margin-top: 2rem;
 }
+
+.language-switcher {
+  display: flex;
+  align-items: center;
+  gap: 0.15rem;
+}
+
+.language-switcher .active-language {
+  color: var(--global-theme-color);
+  font-weight: 500;
+  cursor: default;
+}
+
+.cv-entry {
+  margin-bottom: 1.5rem;
+}
+
+.cv-entry h3 {
+  font-size: 1.05rem;
+  margin-bottom: 0.25rem;
+}
+
+.cv-meta,
+.cv-date {
+  color: var(--global-text-color-light);
+  margin-bottom: 0.25rem;
+}

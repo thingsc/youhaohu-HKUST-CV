@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Adaptive Sliding Mode Control for Electronic Throttle Systems
-lang: en
-alternate_url: /zh/projects/electronic-throttle-control/
-description: Finite-time and fixed-time control algorithms for electronic throttle control.
+title: 电子节气门系统自适应滑模控制
+lang: zh-CN
+alternate_url: /projects/electronic-throttle-control/
+permalink: /zh/projects/electronic-throttle-control/
+description: 面向电子节气门控制的有限时间与固定时间控制算法。
 img: assets/img/research/electronic-throttle-control-8.png
 importance: 3
-category: Research Highlights
+category: 科研亮点
 ---
 
-This research line develops adaptive finite-time and fixed-time sliding mode control algorithms for electronic throttle control systems. The work addresses nonlinear dynamics, robustness, convergence speed, and learning-assisted compensation.
+该研究方向面向电子节气门控制系统，发展自适应有限时间和固定时间滑模控制算法。研究内容覆盖非线性动力学、鲁棒性、收敛速度以及学习辅助补偿等问题。
 
-Related papers include {% cite huFixedtime2024 %}, {% cite huAdaptive2021a %}, {% cite huRobust2020 %}, {% cite huExtremelearningmachinebased2020 %}, and {% cite huAdaptive2021 %}.
+相关论文包括 {% cite huFixedtime2024 %}, {% cite huAdaptive2021a %}, {% cite huRobust2020 %}, {% cite huExtremelearningmachinebased2020 %}, and {% cite huAdaptive2021 %}。
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">

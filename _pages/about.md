@@ -2,6 +2,8 @@
 layout: about
 title: About
 permalink: /
+lang: en
+alternate_url: /zh/
 subtitle: Ph.D. student in Power Electronics at HKUST(GZ)
 
 profile:

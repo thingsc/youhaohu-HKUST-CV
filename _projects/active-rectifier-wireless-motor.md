@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Active-Rectifier Wireless Motor System
+lang: en
+alternate_url: /zh/projects/active-rectifier-wireless-motor/
 description: Dual-side phase shift control for wireless motor drive systems.
 img: assets/img/research/active-rectifier-wireless-motor.png
 importance: 1
@@ -10,6 +12,7 @@ category: Research Highlights
 This research studies an active-rectifier wireless motor system with dual-side phase shift control. It focuses on coordinated control of the wireless power transfer stage and motor-side energy conversion for compact wireless motor drive applications.
 
 <!-- Related selected paper: {% cite huActiverectifier2025 %}. -->
+
 Related paper: [Hu et al., 2024](https://doi.org/10.1109/TPEL.2024.3493093)
 
 <div class="row justify-content-sm-center">

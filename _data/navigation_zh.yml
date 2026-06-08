@@ -1,0 +1,10 @@
+pages:
+  - title: 论文
+    url: /zh/publications/
+    order: 2
+  - title: 项目
+    url: /zh/projects/
+    order: 3
+  - title: 简历
+    url: /zh/cv/
+    order: 5

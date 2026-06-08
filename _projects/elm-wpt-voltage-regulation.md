@@ -1,6 +1,8 @@
 ---
 layout: page
 title: ELM-Based Fixed-Time Voltage Regulation
+lang: en
+alternate_url: /zh/projects/elm-wpt-voltage-regulation/
 description: Adaptive practical fixed-time control for wireless power transfer systems.
 img: assets/img/research/elm-wpt-voltage-regulation.png
 importance: 2
