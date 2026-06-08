@@ -4,7 +4,7 @@ title: 有源整流无线电机系统
 lang: zh-CN
 alternate_url: /projects/active-rectifier-wireless-motor/
 permalink: /zh/projects/active-rectifier-wireless-motor/
-description: 面向无线电机驱动系统的双侧移相控制。
+description: 面向双有源无线电机驱动系统的双边移相控制。
 img: assets/img/research/active-rectifier-wireless-motor.png
 importance: 1
 category: 科研亮点

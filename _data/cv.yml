@@ -77,7 +77,7 @@ cv:
         location: Guangzhou, China
         start_date: 2021-01
         end_date: 2022-09
-        summary: Power Electronics
+        summary: Wireless power transfer system preliminary research
         highlights: []
 
       - company: Hefei University of Technology
@@ -85,7 +85,7 @@ cv:
         location: Hefei, China
         start_date: 2020-09
         end_date: 2021-01
-        summary: Department Administrative Support
+        summary: Steer-by-wire system research
         highlights: []
 
     Awards:
@@ -261,19 +261,19 @@ cv:
       - name: Complex Dynamics Modeling
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "System modeling, nonlinear dynamics, dynamic wireless power transfer"
+        keywords: "System modeling, nonlinear dynamics, uncertainty modeling, data-driven modeling"
 
       - name: Sliding Mode Control Theory
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Adaptive control, barrier-function control, finite-time control, fixed-time control"
+        keywords: "Adaptive control, finite-time control, fixed-time control"
 
       - name: Embedded Systems Programming
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Matlab, Python, C, embedded systems"
+        keywords: "MATLAB/SIMULINK code generation, Python, C, embedded systems"
 
       - name: Neural Network Methods
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Extreme learning machine, neural-network-assisted control, adaptive approximation"
+        keywords: "Extreme learning machine, neural-network-assisted control, adaptive weights"

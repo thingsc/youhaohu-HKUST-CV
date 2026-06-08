@@ -29,8 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Power Electronics at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Dr. [Wei Han](https://weihan.people.ust.hk/?page_id=38) and Prof. [C. C. Chan](https://web.engg.hku.hk/home/people/ccchan/ccchan.htm). My research focuses on power electronics systems, wireless power transfer, motor drive systems, and advanced control for dynamic energy conversion applications.
+I am a Ph.D. candidate in Power Electronics at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Dr. [Wei Han](https://weihan.people.ust.hk/?page_id=38) and Prof. [C. C. Chan](https://web.engg.hku.hk/home/people/ccchan/ccchan.htm). My research interests lie in power electronics, wireless power transfer (WPT), motor drive systems, and advanced control techniques for energy conversion applications.
 
-My current work combines modeling, converter control, embedded implementation, and experimental validation. Recent topics include active-rectifier wireless motor systems, fixed-time voltage regulation for wireless power transfer, sliding mode control, and wireless-powered full-azimuth podded propulsion for unmanned vessels.
+My work combines theoretical research with practical engineering development, spanning system modeling, control algorithm design, embedded implementation, hardware prototyping, and experimental validation. Recent research topics include wireless motor systems, high-efficiency WPT systems, adaptive and sliding mode control, and wireless-powered propulsion systems for unmanned vessels.
 
-I received my M.S. in Control Engineering from Hefei University of Technology and my B.S. in Automation from Shandong University of Technology. I work with Matlab, Python, C, Windows-based development environments, embedded systems, and neural-network-assisted control methods.
+I am experienced in MATLAB/Simulink, Python, and C, with strong expertise in automatic code generation, real-time control systems, and embedded deployment. My goal is to bridge advanced control theory and industrial applications by developing efficient, reliable, and intelligent energy conversion systems.

@@ -18,7 +18,9 @@
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% endif %}" role="navigation">
     <div class="container">
       <a class="navbar-brand title font-weight-lighter" href="{{ home_url | relative_url }}">
-        {% if site.title == 'blank' %}
+        {% if is_zh %}
+          <span class="font-weight-bold">胡友豪</span>
+        {% elsif site.title == 'blank' %}
           <span class="font-weight-bold">{{ site.first_name }}</span>
           {{ site.middle_name }}
           {{ site.last_name }}
@@ -28,10 +30,9 @@
       </a>
 
       <button
-        class="navbar-toggler collapsed ml-auto"
+        class="navbar-toggler collapsed navbar-toggler-main"
         type="button"
-        data-bs-toggle="collapse"
-        data-bs-target="#navbarNav"
+        data-nav-toggle="navbarNav"
         aria-controls="navbarNav"
         aria-expanded="false"
         aria-label="Toggle navigation"
@@ -42,8 +43,8 @@
         <span class="icon-bar bottom-bar"></span>
       </button>
 
-      <div class="collapse navbar-collapse text-right" id="navbarNav">
-        <ul class="navbar-nav ml-auto flex-nowrap navbar-menu-list">
+      <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav">
+        <ul class="navbar-nav navbar-menu-list flex-nowrap">
           {% if is_zh %}
             {% assign zh_nav_pages = site.data.navigation_zh.pages | sort: 'order' %}
             {% for nav_page in zh_nav_pages %}
@@ -52,6 +53,9 @@
               </li>
             {% endfor %}
           {% else %}
+            <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+              <a class="nav-link" href="{{ '/' | relative_url }}">Main page</a>
+            </li>
             {% assign nav_pages = site.pages | where: 'nav', true | sort: 'nav_order' %}
             {% for nav_page in nav_pages %}
               {% unless nav_page.lang == 'zh-CN' or nav_page.url contains '/zh/' %}
@@ -74,17 +78,18 @@
 
           {% if site.search_enabled %}
             <li class="nav-item">
-              <button id="search-toggle" class="nav-link btn btn-link search-toggle" type="button" aria-label="Search">
-                <i class="fa-solid fa-magnifying-glass"></i>
+              <button id="search-toggle" type="button" title="Search" aria-label="Open search">
+                <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span>
               </button>
             </li>
           {% endif %}
 
           {% if site.enable_darkmode %}
             <li class="toggle-container">
-              <button id="light-toggle" title="Change theme" aria-label="Change theme">
-                <i class="fa-solid fa-moon"></i>
-                <i class="fa-solid fa-sun"></i>
+              <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme">
+                <i class="fa-half-sun-moon" id="light-toggle-system"></i>
+                <i class="fa-solid fa-moon" id="light-toggle-dark"></i>
+                <i class="fa-solid fa-sun" id="light-toggle-light"></i>
               </button>
             </li>
           {% endif %}
@@ -92,4 +97,11 @@
       </div>
     </div>
   </nav>
+  {% if site.enable_progressbar %}
+    <progress id="progress" value="0">
+      <div class="progress-container">
+        <span class="progress-bar"></span>
+      </div>
+    </progress>
+  {% endif %}
 </header>

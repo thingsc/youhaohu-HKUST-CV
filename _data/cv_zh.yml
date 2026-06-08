@@ -1,5 +1,5 @@
 cv:
-  name: Youhao Hu
+  name: 胡友豪
   phone: +86 18255189791
   email: yhu543@connect.hkust-gz.edu.cn
   location: 中国广东广州
@@ -10,11 +10,11 @@ cv:
       - institution: 香港科技大学（广州）
         location: 中国广州
         area: 电力电子
-        studyType: 博士研究生
+        studyType: 博士
         start_date: 2025-08
         end_date: 至今
         highlights:
-          - "导师：Dr. [Wei Han](https://weihan.people.ust.hk/?page_id=38) 与 Prof. [C. C. Chan](https://web.engg.hku.hk/home/people/ccchan/ccchan.htm)。"
+          - "导师：[韩伟博士](https://weihan.people.ust.hk/?page_id=38)，[陈清泉院士](https://web.engg.hku.hk/home/people/ccchan/ccchan.htm)。"
 
       - institution: 香港科技大学
         location: 中国香港特别行政区
@@ -23,16 +23,16 @@ cv:
         start_date: 2025-02
         end_date: 2025-08
         highlights:
-          - "交流导师：Prof. [Zhengbao Yang](https://yanglab.hkust.edu.hk/People.html)。"
+          - "交流导师：[杨征宝教授](https://yanglab.hkust.edu.hk/People.html)。"
 
       - institution: 香港科技大学（广州）
         location: 中国广州
         area: 电力电子
-        studyType: 博士研究生
+        studyType: 博士
         start_date: 2022-09
         end_date: 2025-02
         highlights:
-          - "导师：Dr. [Wei Han](https://weihan.people.ust.hk/?page_id=38) 与 Prof. [C. C. Chan](https://web.engg.hku.hk/home/people/ccchan/ccchan.htm)。"
+          - "导师：[韩伟博士](https://weihan.people.ust.hk/?page_id=38)，[陈清泉院士](https://web.engg.hku.hk/home/people/ccchan/ccchan.htm)。"
 
       - institution: 合肥工业大学
         location: 中国合肥
@@ -52,19 +52,19 @@ cv:
 
     科研与工作经历:
       - company: 香港科技大学（广州）
-        position: Research Assistant
+        position: 科研助理
         location: 中国广州
         start_date: 2021-01
         end_date: 2022-09
-        summary: 电力电子
+        summary: 无线电能传输系统预研
         highlights: []
 
       - company: 合肥工业大学
-        position: Research Assistant
+        position: 科研助理
         location: 中国合肥
         start_date: 2020-09
         end_date: 2021-01
-        summary: 系务行政支持
+        summary: 线控转向系统研究
         highlights: []
 
     荣誉奖励:
@@ -80,70 +80,60 @@ cv:
 
       - title: 全额博士奖学金
         authors:
-          - 香港科技大学（广州）
         date: 2022
         awarder: 香港科技大学（广州）
         summary: ""
 
-      - title: 优秀毕业生
+      - title: 安徽省品学兼优毕业生
         authors:
-          - 安徽省
         date: 2020
         awarder: 安徽省
         summary: ""
 
       - title: 优秀毕业生
         authors:
-          - 合肥工业大学
         date: 2020
         awarder: 合肥工业大学
         summary: ""
 
       - title: 研究生国家奖学金
         authors:
-          - 中华人民共和国教育部
         date: 2019
         awarder: 中华人民共和国教育部
         summary: ""
 
       - title: 研究生学业一等奖学金
         authors:
-          - 合肥工业大学
         date: 2019
         awarder: 合肥工业大学
         summary: ""
 
       - title: 研究生学业二等奖学金
         authors:
-          - 合肥工业大学
         date: 2018
         awarder: 合肥工业大学
         summary: ""
 
       - title: 研究生学业一等奖学金
         authors:
-          - 合肥工业大学
         date: 2017
         awarder: 合肥工业大学
         summary: ""
 
       - title: 学业一等奖学金
         authors:
-          - 山东理工大学
         date: 2017
         awarder: 山东理工大学
         summary: ""
 
       - title: Mathematical Contest in Modeling (MCM) Meritorious Winner
         authors:
-          - COMAP, United States
         date: 2016
         awarder: COMAP, United States
         summary: ""
 
       - title: 青岛“德瑞特”奖学金
         authors:
-          - 山东理工大学
         date: 2016
         awarder: 山东理工大学
         summary: ""
@@ -204,25 +194,25 @@ cv:
           - Zhihong Man
         publisher: IEEE Trans. Veh. Technol.
         releaseDate: 2021
-        summary: "[海报](/youhaohu-HKUST-CV/zh/projects/electronic-throttle-control/) &#124; [论文](https://doi.org/10.1109/TVT.2020.3045778)"
+        summary: "[海报](/youhaohu-HKUST-CV/zh/projects/electronic-throttle-control/) &#124; [论文](https://doi.org/10.1109/TVT.2020.3045778)<br>**⭐️ 2021年高被引论文.**"
 
     技能:
       - name: 电力电子系统设计
-        level: 熟练
+        level:
         keywords: "电力电子建模、无线电能传输、无线电机系统、双向能量变换"
 
       - name: 复杂动力学建模
-        level: 熟练
-        keywords: "系统建模、非线性动力学、动态无线电能传输"
+        level:
+        keywords: "系统建模、非线性动力学、不确定性建模、数据驱动建模"
 
       - name: 滑模控制理论
-        level: 熟练
-        keywords: "自适应控制、障碍函数控制、有限时间控制、固定时间控制"
+        level:
+        keywords: "自适应控制、有限时间控制、固定时间控制"
 
       - name: 嵌入式系统编程
-        level: 熟练
-        keywords: "Matlab、Python、C、嵌入式系统"
+        level:
+        keywords: "MATLAB/SIMULINK 代码生成、Python、C、嵌入式系统"
 
       - name: 神经网络方法
-        level: 熟练
-        keywords: "Extreme Learning Machine、神经网络辅助控制、自适应逼近"
+        level:
+        keywords: "极限学习机、神经网络辅助控制、自适应权重"

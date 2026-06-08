@@ -13,7 +13,7 @@ This research studies an active-rectifier wireless motor system with dual-side p
 
 <!-- Related selected paper: {% cite huActiverectifier2025 %}. -->
 
-Related paper: [Hu et al., 2024](https://doi.org/10.1109/TPEL.2024.3493093)
+Related paper: [(Hu et al., 2024)](https://doi.org/10.1109/TPEL.2024.3493093)
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">

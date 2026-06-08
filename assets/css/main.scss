@@ -46,11 +46,48 @@
   cursor: default;
 }
 
-.cv-entry {
-  margin-bottom: 1.5rem;
+.cv-pdf-link {
+  font-size: 1em;
+  line-height: 1;
 }
 
-.cv-entry h3 {
+.cv-profile-header {
+  border-bottom: 1px solid var(--global-divider-color);
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+}
+
+.cv .cv-section-card {
+  background-color: #fafafa;
+  border-color: var(--global-divider-color);
+  box-shadow: none;
+}
+
+html[data-theme="dark"] .cv .cv-section-card,
+body[data-theme="dark"] .cv .cv-section-card {
+  background-color: var(--global-card-bg-color);
+}
+
+.cv-section-card > h2.card-title {
+  border-bottom: 1px solid var(--global-divider-color);
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+}
+
+.cv-section-card .cv-entry:last-child {
+  border-bottom: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.cv-entry {
+  border-bottom: 1px solid var(--global-divider-color);
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+}
+
+.cv-entry-title {
   font-size: 1.05rem;
   margin-bottom: 0.25rem;
 }

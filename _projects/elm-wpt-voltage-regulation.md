@@ -11,7 +11,8 @@ category: Research Highlights
 
 This research applies an extreme-learning-machine-based adaptive practical fixed-time control method to voltage regulation in wireless power transfer systems. The work targets robust regulation under nonlinear dynamics and parameter uncertainty.
 
-Related selected paper: {% cite huELMBased2023 %}.
+<!-- Related selected paper: {% cite huELMBased2023 %}. -->
+Related paper: [(Hu et al., 2023)](https://doi.org/10.3390/en16031016)
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">

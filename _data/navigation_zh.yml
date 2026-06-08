@@ -1,4 +1,7 @@
 pages:
+  - title: 首页
+    url: /zh/
+    order: 1
   - title: 论文
     url: /zh/publications/
     order: 2

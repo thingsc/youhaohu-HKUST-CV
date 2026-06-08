@@ -4,7 +4,7 @@ title: 项目
 permalink: /zh/projects/
 lang: zh-CN
 alternate_url: /projects/
-description: Youhao Hu 在电力电子、无线电能传输、电机驱动系统和控制方向的工程项目与科研亮点。
+description: 电力电子、无线电能传输、电机驱动系统和控制方向的工程项目与科研亮点。
 nav: true
 nav_order: 3
 display_categories: ["工程项目", "科研亮点"]

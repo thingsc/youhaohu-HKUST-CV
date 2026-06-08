@@ -6,19 +6,19 @@ overrides:
     gem_version: 1.0.11
     upstream_path: _includes/header.liquid
     upstream_sha256: c8663513baded68d9fa5fbe4d6363a976535bbe201efe5138243d0ff03101058
-    local_sha256: 304ef26bc91f4211bfa7e0c9046bb13621e004b586900e35f7bef834f9215344
+    local_sha256: 0a56d605ac0db5eb527d92e80be3852203a4db35963cda75c6e8d65d914f69a2
     acknowledged_at: '2026-06-08'
   _layouts/about.liquid:
     owner: al_folio_core
     gem_version: 1.0.11
     upstream_path: _layouts/about.liquid
     upstream_sha256: 2c28eb83b71fe65f252202c11f0b4a19a9b6f1faccdc870b4f91c4ea51d0c6f1
-    local_sha256: 7e54b613d85423b358e721e39174ad0c2749e3310cb7dc891762966dad87e598
+    local_sha256: 8594a4e5de4b0f2fac25cbcffe22db435b8357b698edc2aa168eee3f55d9d3e2
     acknowledged_at: '2026-06-08'
   assets/css/main.scss:
     owner: al_folio_core
     gem_version: 1.0.11
     upstream_path: assets/css/main.scss
     upstream_sha256: 437c6c911c596391413e435dc0ea7095e682e85c572c1fd3fff69f9597455b3e
-    local_sha256: 4e6d76eaa543b81b2c9395ec79aadadeb4e6b959321534a3efb8ffedf7d5fdcb
+    local_sha256: 636720fa3961e65d69fdc65b0e2fa2f0a2b43e4763b249456feb02d84cd7e45e
     acknowledged_at: '2026-06-08'

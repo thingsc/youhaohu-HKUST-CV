@@ -29,8 +29,11 @@ latest_posts:
   limit: 3
 ---
 
-我是 [香港科技大学（广州）](https://www.hkust-gz.edu.cn/) 电力电子方向博士研究生，导师为 [Wei Han 博士](https://weihan.people.ust.hk/?page_id=38) 和 [C. C. Chan 教授](https://web.engg.hku.hk/home/people/ccchan/ccchan.htm)。我的研究聚焦于电力电子系统、无线电能传输、电机驱动系统，以及面向动态能量变换应用的先进控制方法。
+我是[香港科技大学（广州）](https://www.hkust-gz.edu.cn/)电力电子方向博士研究生胡友豪，师从[陈清泉院士](https://web.engg.hku.hk/home/people/ccchan/ccchan.htm)和[韩伟教授](https://weihan.people.ust.hk/?page_id=38)。研究方向聚焦于电力电子系统、无线电能传输（WPT）、电机驱动系统以及先进控制理论，致力于高效率能量变换系统与智能控制技术的研究与应用。
 
-目前的工作结合系统建模、变换器控制、嵌入式实现和实验验证。近期研究主题包括有源整流无线电机系统、无线电能传输固定时间电压调节、滑模控制，以及面向无人船的无线供电全回转吊舱推进系统。
+在博士期间，我长期从事无线电机系统、高效率无线电能传输系统及先进控制算法研究，研究内容涵盖系统建模、控制器设计、嵌入式实现、硬件开发与实验验证等完整研发流程。相关成果发表于 IEEE Transactions on Power Electronics、IEEE Transactions on Vehicular Technology 等国际期刊，并在无线电机系统、动态无线电能传输及智能控制等方向积累了较为丰富的研究与工程实践经验。
 
-我于合肥工业大学获得控制工程硕士学位，于山东理工大学获得自动化学士学位。常用工具和技术包括 Matlab、Python、C、Windows 开发环境、嵌入式系统和神经网络辅助控制方法。
+熟练使用 MATLAB/Simulink、Python 和 C 语言开展算法开发与工程实现，具备 MATLAB/Simulink 自动代码生成、实时控制系统开发以及嵌入式平台部署经验。能够独立完成从理论建模、控制算法设计到样机开发、系统集成和实验验证的全过程研发工作，兼具理论研究能力与工程落地能力。
+
+
+

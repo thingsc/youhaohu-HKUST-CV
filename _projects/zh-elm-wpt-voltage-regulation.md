@@ -12,7 +12,7 @@ category: 科研亮点
 
 本研究将基于 Extreme Learning Machine 的自适应实用固定时间控制方法应用于无线电能传输系统电压调节，目标是在非线性动力学和参数不确定条件下实现鲁棒调节。
 
-相关代表论文：{% cite huELMBased2023 %}。
+相关代表论文：[(Hu et al., 2023)](https://doi.org/10.3390/en16031016)。
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">
