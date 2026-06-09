@@ -1,2 +1,4 @@
 #!/bin/bash
 docker compose down
+# Connection will be closed due to close of docker
+# Target URL: http://127.0.0.1:8080/youhaohu-HKUST-CV/

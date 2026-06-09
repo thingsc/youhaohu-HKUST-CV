@@ -229,6 +229,18 @@ cv:
         # url: https://www.mdpi.com/1996-1073/16/3/1016
         summary: "[Poster](/youhaohu-HKUST-CV/projects/elm-wpt-voltage-regulation/) &#124; [Paper](https://www.mdpi.com/1996-1073/16/3/1016)"
 
+
+      - title: Adaptive full order sliding mode control for electronic throttle valve system with fixed time convergence using extreme learning machine
+        authors:
+          - Youhao Hu
+          - Hai Wang
+          - Amirmehdi Yazdani
+          - Zhihong Man
+        publisher: Neural Comput \& Applic
+        releaseDate: 2021
+        summary: "[Poster](/youhaohu-HKUST-CV/projects/electronic-throttle-control/) &#124; [Paper](https://doi.org/10.1007/s00521-021-06365-0})"
+
+
       - title: Adaptive Tracking Control of an Electronic Throttle Valve Based on Recursive Terminal Sliding Mode
         authors:
           - Youhao Hu
@@ -243,6 +255,22 @@ cv:
         releaseDate: 2021
         # url: https://doi.org/10.1109/TVT.2020.3045778
         summary: "[Poster](/youhaohu-HKUST-CV/projects/electronic-throttle-control/) &#124; [Paper](https://doi.org/10.1109/TVT.2020.3045778)<br>**⭐️ Highly cited paper in 2021.**"
+
+
+      - title: Extreme-learning-machine-based FNTSM control strategy for electronic throttle valve system with fixed-time convergence
+        authors:
+          - Youhao Hu
+          - Hai Wang
+          - Zhenwei Cao
+          - Jinchuan Zheng
+          - Zhaowu Ping
+          - Long Chen
+          - Xiaozheng Jin
+        publisher: Neural Comput \& Applic
+        releaseDate: 2021
+        summary: "[Poster](/youhaohu-HKUST-CV/projects/electronic-throttle-control/) &#124; [Paper](https://doi.org/10.1007/s00521-019-04446-9)."
+
+
       - title: Robust tracking control for vehicle electronic throttle using adaptive dynamic sliding mode and extended state observer
         authors:
           - Youhao Hu

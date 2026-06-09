@@ -8,6 +8,7 @@ description:
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/youhao-hu-cv-zh.pdf
+# cv_pdf: https://github.com/thingsc/youhaohu-CV-PDF-cn/releases/download/v1.0/youhaohu-CV-CN.pdf
 toc:
   sidebar: left
 ---
